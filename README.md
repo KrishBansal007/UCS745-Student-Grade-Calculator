@@ -31,4 +31,4 @@ Average: 84.33
 Grade: B
 ```
 
-Project Status: Grade calculator with an interactive menu.
+Project Status: Grade calculator with an interactive menu and a class-wise report.
